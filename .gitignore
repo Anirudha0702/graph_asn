@@ -1,0 +1,11 @@
+/bfs.exe
+/dfs.exe
+/st_with_bfs.exe
+/st_with_dfs.exe
+/kruskal.exe
+/dijkstra.exe
+/graphTpAdjMat.exe
+/graphToIncidenceMat.exe
+/graphToAdjacencyList.exe
+/_prims.exe
+/.vscode
