@@ -8,4 +8,5 @@
 /graphToIncidenceMat.exe
 /graphToAdjacencyList.exe
 /_prims.exe
+/floyd_warshall.exe
 /.vscode
